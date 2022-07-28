@@ -62,7 +62,22 @@ In the original analysis, Thomas High School ranked 2nd in the district based on
 ![
 ](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/top_5_schools_original_analysis.png)
 
-After adjusting the 9th grade data, Thomas High School dropped to 8th overall in terms of overall pass rate.  The bottom eight performing schools can be observed below: 
+The initial bottom five performing schools were:
+
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/bottom_5_schools_original.png)
+
+After adjusting the 9th grade data, Thomas High School was no longer one of the top five schools in the district.  The new list of top five schools were:
+
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/top_5_schools_adjusted_analysis.png)
+
+Thomas was also not a part of the bottom five performing schools.  The bottom five schools in the district after adjusting for Thomas high Scholl grade 9 scores was:
+
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/bottom_5_schools_adjusted.png)
+
+Upon further inspection of the data, Thomas High School dropped to 8th overall in terms of overall pass rate.  The bottom eight performing schools can be observed below: 
 
 ![
 ](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/Thomas_High_School_ranking_adjusted.png)
