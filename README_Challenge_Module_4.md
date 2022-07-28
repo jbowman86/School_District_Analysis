@@ -10,13 +10,21 @@ A school board requested analysis to be completed regarding different performanc
 
 The data used for the analysis can be accessed via the following links:
 
-School Data - https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/schools_complete.csv
+School Data - 
 
-Student Data - https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/students_complete.csv
+https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/schools_complete.csv
 
-The code used for the original analysis can be assessed via the following link - INSERT LINK
+Student Data -
 
-The code used adjusted analysis can be accessed via the following link - INSERT LINK
+https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/students_complete.csv
+
+The code used for the original analysis can be assessed via the following link - 
+
+https://github.com/jbowman86/School_District_Analysis/blob/main/PyCitySchools.ipynb
+
+The code used adjusted analysis can be accessed via the following link -
+
+https://github.com/jbowman86/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
 
 ### How is the district summary affected?
 
