@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A school board requested analysis to be completed regarding different performance metrics from different school districts and schools.  The main analysis focused on the performance of math and reading scores.  After review of the initial analysis, there appeared to be some abnormalities in the data, specifically regarding the math and reading scores from grade nine students at Thomas High School.  To further understanding these irregularities, the school board requested the analysis be repeated with the removal of the Thomas High School grade nine scores.  Both math and reading scores were replaced with "NaN" (Not-A-Number) values.  Both analyses would be compared to determine the impact of Thomas High School reading and math scores on the overall performance of the schools overseen by the school board.
+A school board requested analysis to be completed regarding different performance metrics from different school districts and schools.  The main analysis focused on the performance of math and reading scores.  After review of the initial analysis, there appeared to be some abnormalities in the data, specifically regarding the math and reading scores from grade nine students at Thomas High School.  To further understanding these irregularities, the school board requested the analysis be repeated with the removal of the Thomas High School grade nine scores.  Both math and reading scores were replaced with "NaN" (Not-A-Number) values.  Both analyses would be compared to determine the impact of 9th grade Thomas High School reading and math scores on the overall performance of the schools overseen by the school board.
 
 ## Results
 
