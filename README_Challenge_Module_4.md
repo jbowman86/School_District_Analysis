@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A school board requested analysis to be completed regarding different performance metrics from different school districts and schools.  The main analysis focused on the performance of math and reading scores.  After review of the initial analysis, there appeared to be some abnormalities in the data, specifically regarding the math and reading scores from grade nine students at Thomas High School.  To further understanding these irregularities, the school board requested the analysis be repeated with the removal of the Thomas High School grade nine scores.  Both math and reading scores were replaced with “NaN” (Not-A-Number) values.  Both analyses would be compared to determine the impact of Thomas High School reading and math scores on the overall performance of the schools overseen by the school board.
+A school board requested analysis to be completed regarding different performance metrics from different school districts and schools.  The main analysis focused on the performance of math and reading scores.  After review of the initial analysis, there appeared to be some abnormalities in the data, specifically regarding the math and reading scores from grade nine students at Thomas High School.  To further understanding these irregularities, the school board requested the analysis be repeated with the removal of the Thomas High School grade nine scores.  Both math and reading scores were replaced with "NaN" (Not-A-Number) values.  Both analyses would be compared to determine the impact of Thomas High School reading and math scores on the overall performance of the schools overseen by the school board.
 
 ## Results
 
@@ -46,7 +46,7 @@ Original Analysis:
 INSERT PNG ON THOMAS HIGH SCHOOL ORIGINAL ANALYSIS
 (Thomas_High_School_original_analysis.png)
 
-The school board was concerned that Thomas High School’s initial 90.95% overall pass rate was too high.  After calculating the total number of 10th - 12th grade students as the new denominator, the rest of the testing data was adjusted and can be obtained below:
+The school board was concerned that Thomas High School√ïs initial 90.95% overall pass rate was too high.  After calculating the total number of 10th - 12th grade students as the new denominator, the rest of the testing data was adjusted and can be obtained below:
 
 
 Adjusted Analysis:
@@ -57,7 +57,7 @@ INSERT PNG ON THOMAS HIGH SCHOOL ADJUSTED ANALYSIS
 
 Removing the 9th grade students from the data set had a substantial impact by dropping the overall pass rate from 90.95% to 65.08% for the overall passing rate. 
 
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders√ï math and reading scores affect Thomas High School√ïs performance relative to the other schools?
 
 In the original analysis, Thomas High School ranked 2nd in the district based on overall pass rate.  The initial top five ranked schools can be seen below:
 
