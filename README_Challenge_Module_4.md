@@ -1,4 +1,4 @@
-# Module 4 Challenge - School_District_Analysis
+# Module 4 Challenge - School District Analysis
 
 ## Project Overview
 
@@ -23,17 +23,14 @@ A school board requested analysis to be completed regarding different performanc
 
 The initial math and reading score analysis for the fifteen schools within the district is included below:
 
-Original Analysis:
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/school_district_analysis_summary_original.png)
 
-INSERT PNG ON DISTRICT SUMMARY ORIGINAL ANALYSIS
-(school_district_analysis_summary_original.png)
 
 The records of 461 9th graders at Thomas High School was turned into null data, which recalculated the percentages of passing math, passing reading, and the overall passing.  The total count of students did not change as that was run on the count of the student ids, which was not turned into null data. The adjusted analysis is included below:
 
-Adjusted Analysis:
-
-INSERT PNG ON DISTRICT SUMMARY ADJUSTED ANALYSIS
-(school_district_analysis_summary_adjusted.png)
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/school_district_analysis_summary_adjusted.png)
 
 When comparing the two analyses, the average math score decreased by 0.06, the average reading score dropped by 0.02 points, the percentage passing math dropped by 0.22%, the percentage passing reading decreased by 0.15%, and overall passing rate dropped by 0.31%.  Overall, the changes in scored do not appear to be substantial.
 
@@ -41,37 +38,27 @@ When comparing the two analyses, the average math score decreased by 0.06, the a
 
 The original analysis for school results can observed in the link below:
 
-Original Analysis:
-
-INSERT PNG ON THOMAS HIGH SCHOOL ORIGINAL ANALYSIS
-(Thomas_High_School_original_analysis.png)
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/Thomas_High_School_original_analysis.png)
 
 The school board was concerned that Thomas High SchoolÕs initial 90.95% overall pass rate was too high.  After calculating the total number of 10th - 12th grade students as the new denominator, the rest of the testing data was adjusted and can be obtained below:
 
-
-Adjusted Analysis:
-
-INSERT PNG ON THOMAS HIGH SCHOOL ADJUSTED ANALYSIS
-(Thomas_High_School_adjusted_analysis.png)
-
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/Thomas_High_School_adjusted_analysis.png)
 
 Removing the 9th grade students from the data set had a substantial impact by dropping the overall pass rate from 90.95% to 65.08% for the overall passing rate. 
 
-### How does replacing the ninth gradersÕ math and reading scores affect Thomas High SchoolÕs performance relative to the other schools?
+### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 
 In the original analysis, Thomas High School ranked 2nd in the district based on overall pass rate.  The initial top five ranked schools can be seen below:
 
-Original Analysis:
-
-INSERT PNG ON TOP 5 SCHOOLS ORIGINAL ANALYSIS
-(top_5_schools_original_analysis.png)
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/top_5_schools_original_analysis.png)
 
 After adjusting the 9th grade data, Thomas High School dropped to 8th overall in terms of overall pass rate.  The bottom eight performing schools can be observed below: 
 
-Adjusted Analysis:
-
-INSERT PNG ON TOP 5 SCHOOLS ADJUSTED ANALYSIS
-(Thomas_High_School_ranking_adjusted.png)
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/Thomas_High_School_ranking_adjusted.png)
 
 The adjusting the 9th grade scores from Thomas High School scores, the school decreased its overall ranking of the school within the district from 2nd overall to 8th; thereby, removing it from the top five schools.
 
@@ -81,11 +68,14 @@ The adjusting the 9th grade scores from Thomas High School scores, the school de
 
 In the original analysis, Thomas High School had 83.6 math average and 83.7 reading average for the 9th grade tests. Now the scores have been replaced with null values and shows up in Python programming as NaN in the following charts. 
 
-INSERT PNG OF ADJUSTED MATH SCORES
-(adjusted_average_math_scores_by_grade.png)
+Adjusted average math scores by grade and school:
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/adjusted_average_math_scores_by_grade.png)
 
-INSERT PNG OF ADJUSTED READING SCORES
-(adjusted_average_reading_scores_by_grade.png)
+Adjusted average reading scores by grade and school:
+
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/adjusted_average_reading_scores_by_grade.png)
 
 As can be observed, the data replacement did not change the math and reading scores by grade.  
 
