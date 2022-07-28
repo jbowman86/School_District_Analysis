@@ -8,6 +8,10 @@ A school board requested analysis to be completed regarding different performanc
 
 ### Process and Methodology
 
+The data used for the analysis can be accessed via the following links:
+
+School Data - https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/schools_complete.csv
+
 1. Open Jupyter Notebook files from local directories using a development environment.
 2. Read an external CSV file into a DataFrame.
 3. Format a DataFrame column.
