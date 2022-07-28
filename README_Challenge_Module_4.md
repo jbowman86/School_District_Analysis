@@ -12,16 +12,11 @@ The data used for the analysis can be accessed via the following links:
 
 School Data - https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/schools_complete.csv
 
-1. Open Jupyter Notebook files from local directories using a development environment.
-2. Read an external CSV file into a DataFrame.
-3. Format a DataFrame column.
-4. Determine data types of row values in a DataFrame.
-5. Retrieve data from specific columns of a DataFrame.
-6. Merge, filter, slice, and sort a DataFrame.
-7. Apply the groupby() function to a DataFrame.
-8. Use multiple methods to perform a function on a DataFrame.
-9. Perform mathematical calculations on columns of a DataFrame or Series.
+Student Data - https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/students_complete.csv
 
+The code used for the original analysis can be assessed via the following link - INSERT LINK
+
+The code used adjusted analysis can be accessed via the following link - INSERT LINK
 
 ### How is the district summary affected?
 
