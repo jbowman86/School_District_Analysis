@@ -83,15 +83,13 @@ As can be observed, the data replacement did not change the math and reading sco
 
 The initial analysis of math and reading scores based on spending per student for the fifteen schools within the district is included below.  It is noted that Thomas High School falls in the $630-$644/student spending range.
 
-Original Analysis:
-
-INSERT PNG OF ORIGINAL SPENDING ANALYSIS
-(scores_by_spending_original.png)
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/scores_by_spending_original.png)
 
 The adjusted analysis for math and reading scores compared to spending per student is included below:
 
-INSERT PNG OF ADJUSTED SPENDING ANALYSIS
-(scores_by_spending_adjusted.png)
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/scores_by_spending_adjusted.png)
 
 The adjustment to the dataset had little impact on average math and reading scores based on spending.  However, there were differences observed when comparing spending ranges to passing percentages.  It was found that there was a 0.02% drop in percentage passing math, a 0.07% decline in percentage passing reading, and a 0.08% decrease in percentage passing overall among schools spending $630-644 per student.
 
@@ -99,17 +97,13 @@ The adjustment to the dataset had little impact on average math and reading scor
 
 Analysis for schools based on size was conducted by grouping schools based on their number of total students.  Small schools had less than 1000 students, medium schools had between 1000 and 2000 students and large schools had more than 2000 students.  Thomas High School is defined as a medium sized school.  The initial analysis for math and reading scores based on school size are presented below:
 
-Original Analysis:
-
-INSERT PNG OF ORIGINAL SCORES BY SCHOOL SIZE 
-(scores_by_school_size_original.png)
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/scores_by_school_size_original.png)
 
 The adjusted analysis for math and reading scores based on school size is included below:
 
-Adjusted Analysis:
-
-INSERT PNG OF ADJUSTED SCORES BY SCHOOL SIZE 
-(scores_by_school_size_adjusted)
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/scores_by_school_size_adjusted.png)
 
 When adjusted for Thomas High School 9th grade results, there was no change in the average math or reading scores for medium sized schools.  However, there was small changes to the percentage passing math, reading and overall.  In the adjusted analysis, the percentage of students passing math dropped 0.02%.  Additionally, the percentage of students passing reading decreased by 0.06%.  Lastly, the overall passing percentage declined by 0.06%.  The scores for the small and large schools were unaffected by the adjustments made to the data for this analysis.
 
@@ -117,17 +111,13 @@ When adjusted for Thomas High School 9th grade results, there was no change in t
 
 The math and reading scores between charter and district schools were compared.  Thomas High School is a charter school type. The initial analysis results can be seen below:
 
-Original Analysis:
-
-INSERT PNG OF ORIGINAL SCORES BY SCHOOL TYPE
-(scores_by_school_type_original.png)
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/scores_by_school_type_original.png)
 
 The adjusted analysis for math and reading scores by school type is included below:
 
-Adjusted Analysis:
-
-INSERT PNG OF ADJUSTED SCORES BY SCHOOL TYPE
-(scores_by_school_type_adjusted.png)
+![
+](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/scores_by_school_type_adjusted.png)
 
 There was no change in average math and reading scores for charter schools after adjusted from Thomas High School 9th grade scores.  Removing the 9th grade scores from Thomas High School did lead to a 0.01% decline percentage passing math, a drop of 0.04% in percentage passing reading and a 0.04% decline in overall passing percentage among students at charter schools.  This analysis had no impact on the results obtained from district schools.
 
