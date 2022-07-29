@@ -88,9 +88,10 @@ After adjusting the 9th grade scores from Thomas High School scores, the school 
 
 ### Adjusted Averages using the Math and Reading Scores 
 
-In the original analysis, Thomas High School had an average math score of 83.6 and an average reading score of 83.7 for the 9th grade tests. In the adjusted analysis, scores for 9th grade Thomas High School students have been replaced with null values.  The adjusted average math and reading scores can be shown in the following charts: 
+In the original analysis, Thomas High School had an average math score of 83.6 and an average reading score of 83.7 for the 9th grade tests. In the adjusted analysis, scores for 9th grade Thomas High School students have been replaced with null values.  The adjusted average math and reading scores for the school swithin the district can be shown in the following charts: 
 
 Adjusted average math scores by grade and school:
+
 ![
 ](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/adjusted_average_math_scores_by_grade.png)
 
