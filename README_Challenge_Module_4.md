@@ -43,7 +43,7 @@ When comparing the two analyses, the average math score decreased by 0.06 points
 
 ### How is the school summary affected?
 
-The original analysis for school results can observed in the link below:
+The original analysis for Thomas High School results can observed in the link below:
 
 ![
 ](https://github.com/jbowman86/School_District_Analysis/blob/main/Resources/Thomas_High_School_original_analysis.png)
