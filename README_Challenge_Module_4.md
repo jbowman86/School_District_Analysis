@@ -6,7 +6,7 @@ A school board requested analysis to be completed regarding academic performance
 
 ## Results
 
-### Process and Methodology
+### Data Sources and Coding
 
 The data used for the analysis can be accessed via the following links:
 
